@@ -31,6 +31,7 @@
 [Diversity](<https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/>)(úpravy mobek, třeba že z toho snore flee se dá dostat tím že teammate bude klikat E)\
 
 **NEW MODS**
+
 [New Scrap Items](<https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/>)\
 [Sound Rework](<https://thunderstore.io/c/lethal-company/p/AbyssalCompanyTeam/AbyssalAudio/>)
 

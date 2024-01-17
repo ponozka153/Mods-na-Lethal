@@ -15,10 +15,7 @@
 [Oblečení](<https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors>)\
 [Mimic](<https://thunderstore.io/c/lethal-company/p/x753/Mimics/>)\
 [Enemy a nějaký items od booma](<https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/>)\
-[Skinwalker](<https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/>)(enemies můžou mít hlas spoluhráčů :3)
-
-**NEW MODS**
-
+[Skinwalker](<https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/>)(enemies můžou mít hlas spoluhráčů :3)\
 [Darkmist](<https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/>)(mobka)\
 [Když bad počaší => More loot :3](<https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/>)\
 [Orion](<https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/>)(Moon)\
@@ -32,6 +29,10 @@
 [Lepší healing](<https://thunderstore.io/c/lethal-company/p/Hotoni/TZPReworkedHealing/>)\
 [Herobrine entita](<https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/>)\
 [Diversity](<https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/>)(úpravy mobek, třeba že z toho snore flee se dá dostat tím že teammate bude klikat E)\
+
+**NEW MODS**
+[New Scrap Items](<https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/>)\
+[Sound Rework](<https://thunderstore.io/c/lethal-company/p/AbyssalCompanyTeam/AbyssalAudio/>)
 
 **CLIENT SIDE MODS:**
 

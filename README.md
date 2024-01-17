@@ -22,7 +22,6 @@
 [Aquatis](<https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/>)(Moon)\
 [Peaches Castle](<https://thunderstore.io/c/lethal-company/p/TeamBridget/Peaches_Castle/>)(Moon)\
 [Christmas Village](<https://thunderstore.io/c/lethal-company/p/HolographicWings/ChristmasVillage_Legacy/>)(Moon)\
-[Backrooms](<https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/>)(Moon)\
 [Atlas Abbys](<https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/>)(Moon)\
 [Novej interiér a itemy](<https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/>)\
 [Úkoly pro bonus](<https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/>)\

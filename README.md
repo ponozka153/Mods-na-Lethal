@@ -32,7 +32,8 @@
 **NEW MODS**
 
 [New Scrap Items](<https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/>)\
-[Sound Rework](<https://thunderstore.io/c/lethal-company/p/AbyssalCompanyTeam/AbyssalAudio/>)
+[Sound Rework](<https://thunderstore.io/c/lethal-company/p/AbyssalCompanyTeam/AbyssalAudio/>)\
+[Remaster na Insanity](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)
 
 **CLIENT SIDE MODS:**
 

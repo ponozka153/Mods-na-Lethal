@@ -33,7 +33,10 @@
 
 [New Scrap Items](<https://thunderstore.io/c/lethal-company/p/Justice69/ImmersiveScraps/>)\
 [Sound Rework](<https://thunderstore.io/c/lethal-company/p/AbyssalCompanyTeam/AbyssalAudio/>)\
-[Remaster na Insanity](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)
+[Remaster na Insanity](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)\
+[Infernis](<https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/>)(Moon)\
+[Insanity actually něco dělá](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)\
+[Random Moon Picker](<https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/>)
 
 **CLIENT SIDE MODS:**
 

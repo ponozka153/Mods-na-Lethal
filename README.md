@@ -36,7 +36,8 @@
 [Remaster na Insanity](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)\
 [Infernis](<https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/>)(Moon)\
 [Insanity actually něco dělá](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)\
-[Random Moon Picker](<https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/>)
+[Random Moon Picker](<https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/>)\
+[Reserved Flashlight Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/>)
 
 **CLIENT SIDE MODS:**
 

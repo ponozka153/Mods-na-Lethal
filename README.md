@@ -23,7 +23,7 @@
 [Peaches Castle](<https://thunderstore.io/c/lethal-company/p/TeamBridget/Peaches_Castle/>)(Moon)\
 [Christmas Village](<https://thunderstore.io/c/lethal-company/p/HolographicWings/ChristmasVillage_Legacy/>)(Moon)\
 [Atlas Abbys](<https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/>)(Moon)\
-[Novej interiér a itemy](<https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/>)\
+[Novej interiéry a itemy](<https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/>)\
 [Úkoly pro bonus](<https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/>)\
 [Lepší healing](<https://thunderstore.io/c/lethal-company/p/Hotoni/TZPReworkedHealing/>)\
 [Herobrine entita](<https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/>)\
@@ -39,6 +39,15 @@
 [Random Moon Picker](<https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/>)\
 [Reserved Flashlight Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/>)\
 [Reserved Walkie Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/>)\
+
+
+**NEWEST MODS**
+[Laser Control the Turret](<https://thunderstore.io/c/lethal-company/p/Anubis/LaserControl/>)\
+[SCP-096](<https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/>)\
+[Novej oblek](<https://thunderstore.io/c/lethal-company/p/Crab_imitation/Reptilian_Suit/>)(for some fucking reason)\
+[Cosmetics](<https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/>)\
+[Office interiér](<https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/>)\
+
 
 **CLIENT SIDE MODS:**
 

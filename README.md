@@ -27,7 +27,7 @@
 [Úkoly pro bonus](<https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/>)\
 [Lepší healing](<https://thunderstore.io/c/lethal-company/p/Hotoni/TZPReworkedHealing/>)\
 [Herobrine entita](<https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/>)\
-[Diversity](<https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/>)(úpravy mobek, třeba že z toho snore flee se dá dostat tím že teammate bude klikat E)\
+[Diversity](<https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/>)(úpravy mobek, třeba že z toho snore flee se dá dostat tím že teammate bude klikat E)
 
 **NEW MODS**
 
@@ -38,15 +38,20 @@
 [Insanity actually něco dělá](<https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/>)\
 [Random Moon Picker](<https://thunderstore.io/c/lethal-company/p/stormytuna/RouteRandom/>)\
 [Reserved Flashlight Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/>)\
-[Reserved Walkie Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/>)\
+[Reserved Walkie Slot](<https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/>)
 
 
 **NEWEST MODS**
 [Laser Control the Turret](<https://thunderstore.io/c/lethal-company/p/Anubis/LaserControl/>)\
-[SCP-096](<https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/>)\
+[SCP 096](<https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/>)\
 [Novej oblek](<https://thunderstore.io/c/lethal-company/p/Crab_imitation/Reptilian_Suit/>)(for some fucking reason)\
 [Cosmetics](<https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/>)\
 [Office interiér](<https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/>)\
+[Gratar](<https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Gratar/>)(moon)\
+[Polarus](<https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Polarus/>)(moon)\
+[Gambling :3](<https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/>)\
+[Monstra co nevraždí](<https://thunderstore.io/c/lethal-company/p/x753/Peepers/>)\
+[The Fiend](<https://thunderstore.io/c/lethal-company/p/Rolevote/The_Fiend/>)(monstrum)
 
 
 **CLIENT SIDE MODS:**

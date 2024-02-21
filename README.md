@@ -52,7 +52,9 @@
 [Gambling :3](<https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/>)\
 [Monstra co nevraždí](<https://thunderstore.io/c/lethal-company/p/x753/Peepers/>)\
 [The Fiend](<https://thunderstore.io/c/lethal-company/p/Rolevote/The_Fiend/>)(monstrum)\
-[THICC SUIT](<https://thunderstore.io/c/lethal-company/p/Zyno1234/Extra_Default_Suit_For_Thicc_Mod/>)
+[THICC SUIT](<https://thunderstore.io/c/lethal-company/p/Zyno1234/Extra_Default_Suit_For_Thicc_Mod/>)\
+[Dead Space Isac suit](<https://thunderstore.io/c/lethal-company/p/BrotherPig/DeadSpaceIssac_Suits/>)\
+[Stranger things](<https://thunderstore.io/c/lethal-company/p/Scoliosis/StrangerThingsMod/>)(Demogorgon)
 
 
 **CLIENT SIDE MODS:**
